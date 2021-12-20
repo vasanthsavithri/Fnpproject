@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testNg.Fnp_online"/>
+      <class name="project_object.Productselection"/>
+      <class name="project_object.Addtocartpage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
